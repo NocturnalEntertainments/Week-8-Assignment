@@ -69,6 +69,7 @@ public class Item : MonoBehaviour
         if (distance < 1f && !GameManager.Instance.isJumping)
         {
             GameManager.Instance.DamageHealth(5);
+            Debug.Log("Hit");
             hasHit = true;
         }
     }

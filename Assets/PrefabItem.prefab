@@ -198,3 +198,5 @@ MonoBehaviour:
   scaleSpeed: 3
   maxScale: 0.5
   destroyZ: 100
+  hitRange: 0.02
+  zRange: 0.81

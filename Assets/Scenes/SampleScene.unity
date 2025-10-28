@@ -1079,7 +1079,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
   moveSpeed: 10
-  jumpHeight: 4
+  jumpHeight: 7
+  jumpDuration: 1
+  jumpYOffset: 0.58
 --- !u!1 &894877532
 GameObject:
   m_ObjectHideFlags: 0
